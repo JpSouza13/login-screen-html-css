@@ -27,10 +27,12 @@
 }
 .left-login > h1{
     color: #77ffc0;
+    font-size: 14pt;
 }
 
 .left-image{
-    width: 30vw;
+    width: 24vw;
+    padding-bottom: 120px;
     
 }
 
